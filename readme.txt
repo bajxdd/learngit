@@ -5,4 +5,4 @@ http://www.xttblog.com/   ÒµÓà²Ý
 http://www.helloweba.com/   helloweba
 http://pdfzj.cn/jsjyhlw/  pdf
 http://qz.aura.cn/index.php  pMÈ¦×Ó
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
